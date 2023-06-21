@@ -1,0 +1,20 @@
+Lucas@DESKTOP-PITHO2F MINGW64 /c/Desarrollo/EducacionIT/git-desfios (master)
+$ git log
+commit daad035165244b1384166df592a5d986510d1bca (HEAD -> master, origin/master)
+Author: LucasSama <lucas.samaniego.96@gmail.com>
+Date:   Fri Jun 16 23:43:11 2023 -0300
+
+    elim readme.txt
+
+commit 2d7135e427aad13e19b165543fed69837db9b5bd
+Author: LucasSama <lucas.samaniego.96@gmail.com>
+Date:   Fri Jun 16 23:40:23 2023 -0300
+
+    add readme.md
+
+commit a444446f3be0ebc4b69d256fe9dd2d52eba686e4
+Author: LucasSama <lucas.samaniego.96@gmail.com>
+Date:   Fri Jun 16 23:38:19 2023 -0300
+
+    primer commit para desafio1
+
